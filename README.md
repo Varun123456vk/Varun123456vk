@@ -1,9 +1,8 @@
 
-
 # Hi 👋, I'm Varun
 
 🎯 A passionate Business Intelligence Analyst with a flair for dashboard design and data storytelling  
-📊 Skilled in **Tableau**, **Power BI**, **SQL**, and **Excel**  
+📊 Skilled in **Tableau**, **Power BI**, **Python**,**SQL**, and **Excel**  
 🚀 Currently curating a standout BI portfolio to engage recruiters and showcase impact
 
 ---
@@ -17,6 +16,7 @@
 
 ## 🧰 Tools & Technologies
 ![Tableau](https://img.shields.io/badge/-Tableau-blue?logo=tableau)
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?logo=powerbi)
 ![SQL](https://img.shields.io/badge/-SQL-lightgrey?logo=mysql)
 ![Excel](https://img.shields.io/badge/-Excel-green?logo=microsoft-excel)
